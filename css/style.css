@@ -1,0 +1,17 @@
+.row{
+    margin: auto;
+}
+.carousel-inner{
+    max-height: 28rem;
+}
+.card img{
+    max-height: 200px;
+    object-fit: cover;
+}
+#cardContainer{
+    padding-right: 30px;
+}
+.modal-dialog{
+    display: inline-block;
+    width: auto;
+}
